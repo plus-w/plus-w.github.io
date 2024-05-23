@@ -8,4 +8,9 @@ draft = true
 
 This is **bold** text, and this is *emphasized* text.
 
+This is inline math: $a^2 + b^2 = c^2$, and this is block math:
+
+$$f(x)=x^2$$
+
+
 Visit the [Hugo](https://gohugo.io) website!
