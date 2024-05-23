@@ -34,7 +34,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: tyue
+  showtoc: true
   tocopen: false
   mathjax: true
 
