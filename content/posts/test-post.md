@@ -13,5 +13,6 @@ This is inline math: $a^2 + b^2 = c^2$, and this is block math:
 
 $$f(x)=x^2$$
 
+This is an image: ![landscape](/images/landscape.png)
 
 Visit the [Hugo](https://gohugo.io) website!

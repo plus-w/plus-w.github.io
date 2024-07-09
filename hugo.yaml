@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: Jiahao Wang's Blog
+title: Jiahao Wang
 theme: PaperMod
 paginate: 10
 
@@ -11,9 +11,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Jiahao Wang's Blog
+  title: Jiahao Wang
   description: "..."
-  keywords: [Blog]
+  keywords: [Web]
   author: Jiahao Wang
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -47,7 +47,7 @@ params:
   #   safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Jiahao Wang's Blog"
+    text: "Jiahao Wang"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -68,7 +68,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "This is Jiahao Wang's Blog \U0001F44B"
+    Title: "This is Jiahao Wang \U0001F44B"
     Content: Trying to figure out how things work
 
   socialIcons:
