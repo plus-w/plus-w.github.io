@@ -9,6 +9,10 @@ Most of the following contents comes from [this document](https://www.math.mcgil
 
 ## Anatomy Of Neuron
 
+<div align="center">
+<img src=/images/Neuron.png width=100% />
+</div>
+
 - Neurons receive signals through dendrites located on the main bulk of the cell. 
 
 - From there, the signal is propagated through the body and sent along the axon to the next neuron.
@@ -33,6 +37,10 @@ Steps:
 6. The diffusion of extracellular potassium away from the cell causes a very slight increase in membrane voltage. It finally returns to its resting value.
 
 ## Mathematical Model
+
+<div align="center">
+<img src=/images/H-H.png width=90% />
+</div>
 
 - Membrane functions like a capacitor in an electrical circuit.
 - Ion channels allow ions to flow into or out of the neuron, which changes the membrane potential.

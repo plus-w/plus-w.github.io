@@ -15,4 +15,8 @@ $$f(x)=x^2$$
 
 This is an image: ![landscape](/images/landscape.png)
 
+<div align="center">
+<img src=/images/landscape.png width=80% />
+</div>
+
 Visit the [Hugo](https://gohugo.io) website!
