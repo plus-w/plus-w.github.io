@@ -7,7 +7,7 @@ tags = ['neuroscience']
 
 Most of the following contents comes from [this document](https://www.math.mcgill.ca/gantumur/docs/reps/RyanSicilianoHH.pdf) by Ryan Siciliano. 
 
-## Anatomy Of Neuron
+## Anatomy of Neuron
 
 <div align="center">
 <img src=/images/Neuron.png width=100% />
