@@ -1,7 +1,7 @@
 +++
 title = 'The Hodgkin-Huxley Model'
 date = 2024-07-17T15:13:49+08:00
-draft = false
+draft = true
 tags = ['neuroscience']
 +++
 
