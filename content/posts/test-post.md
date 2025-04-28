@@ -20,3 +20,7 @@ This is an image: ![landscape](/images/landscape.png)
 </div>
 
 Visit the [Hugo](https://gohugo.io) website!
+
+```bash
+hugo new content content/posts/my-first-post.md
+```
